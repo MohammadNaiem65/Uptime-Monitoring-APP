@@ -1,0 +1,14 @@
+{
+    "name": "Uptime-Monitoring-App",
+    "author": {
+        "name": "Mohammad Naiem"
+    },
+    "description": "A RESTFul API to monitor the up and down time of certain links given by a user.",
+    "date": "09/07/2023",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon index"
+    }
+}
